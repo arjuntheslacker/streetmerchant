@@ -22,6 +22,7 @@ export type Brand =
 	| 'inno3d'
 	| 'kfa2'
 	| 'microsoft'
+	| 'nintendo'
 	| 'msi'
 	| 'nvidia'
 	| 'palit'
@@ -48,7 +49,8 @@ export type Series =
 	| 'sonyps5de'
 	| 'sf'
 	| 'xboxsx'
-	| 'xboxss';
+	| 'xboxss'
+	| 'switchbundle';
 
 export type Model =
 	| 'test:model'
@@ -117,7 +119,8 @@ export type Model =
 	| 'xc3 ultra'
 	| 'xc3'
 	| 'xlr8 revel'
-	| 'xlr8 uprising';
+	| 'xlr8 uprising'
+	| 'switch bundle';
 
 export type Link = {
 	brand: Brand;

@@ -63,6 +63,13 @@ export const Gamestop: Store = {
 			series: 'xboxss',
 			url:
 				'https://www.gamestop.com/video-games/xbox-series-x/consoles/products/xbox-series-s-digital-edition/11108372.html?condition=New'
+		},
+		{
+			brand: 'nintendo',
+			model: 'switch bundle',
+			series: 'switchbundle',
+			url:
+				'https://www.gamestop.com/nav-consoles-switch-consoles-new/products/nintendo-switch-with-neon-joy-con-mario-kart-8-deluxe-and-nintendo-online-3-month-system-bundle/11110063.html'
 		}
 	],
 	name: 'gamestop',
